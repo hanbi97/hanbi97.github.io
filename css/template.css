@@ -37,10 +37,10 @@ header .basic-info h1{
     color: rgb(187,181,41);
 }
 header .basic-info p{
-    padding: 3px 0px 0px 0px;
+    padding: 3px 0px 3px 0px;
 }
 header .menu{
-    margin: 0px 0px 0px 500px;
+    margin: -7px 0px 0px 500px;
 }
 header .menu-list{
     clear:both;
