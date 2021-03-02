@@ -1,0 +1,75 @@
+/*initialize*/
+*{
+    color:#9e9fa0;
+    font-family: 'Share Tech Mono', monospace;
+}
+body{
+    background-color: black;
+    margin-left:18%;
+    margin-right:18%;
+}
+header{
+    background-color: #3c3f41;
+    height:180px;
+    margin: 10px 0px 1px 0px;
+    padding:0px 0px 0px 50px;
+}
+section{
+    height:100%;
+    padding-left:10%;
+    padding-right:10%;
+    background-color: #3c3f41;
+    margin-bottom:10px;
+}
+
+/*header*/
+header .my-image{
+    height: 182px;
+    width:160px;
+    padding: 0px 10px 0px 40px;
+    float:left;
+}
+header .basic-info{
+    display: inline-block;
+    margin:45px 0px 0px 10px;
+}
+header .basic-info h1{
+    color: rgb(187,181,41);
+}
+header .basic-info p{
+    padding: 3px 0px 0px 0px;
+}
+header .menu{
+    margin: 0px 0px 0px 500px;
+}
+header .menu-list{
+    clear:both;
+    display: inline-block;
+    list-style: none;
+}
+
+.menu-link{
+    text-decoration: none;
+    height:20px;
+    width:20px;
+    margin:1px;
+}
+
+header .menu-button{
+    background-color: #3c3f41;
+    height:30px;
+    width:70px;
+    text-align: center;
+    box-shadow: 2px -2px #18191a;
+}
+header .menu-button.clicked{
+    background-color: #18191a;
+    height:30px;
+    width:70px;
+    text-align: center;
+    box-shadow: 2px -2px #18191a;
+}
+/*etc*/
+.menu-button:hover{
+    background-color: #18191a;
+}

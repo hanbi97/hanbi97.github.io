@@ -1,0 +1,52 @@
+.contents{
+    padding:30px 5px 30px 5px;
+}
+.blank{
+    height:20px;
+}
+.information{
+    margin:10px;
+}
+
+.title1{
+    color: rgb(192,119,49);
+}
+.title{
+    color: rgb(135,113,168);
+}
+.content-title{
+    padding:3px 0px 3px 0px;
+}
+.content-tech{
+    width:100%;
+    padding:3px 0px 3px 0px;
+}
+.content{
+    padding:1px 0px 1px 0px;
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration-line: underline;
+}
+
+.repo{
+    color:#E6E6E6;
+    text-decoration-line: underline;
+}
+.information a{
+    width: 100%;
+}
+.period{
+    margin-bottom: 10px;
+    cursor: auto;
+}
+
+.repo-link{
+    padding:3px 0px 3px 0px;
+}
+.repo-link:hover{
+    text-decoration-line: underline;
+}
