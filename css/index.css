@@ -43,7 +43,9 @@ a:hover{
     margin-bottom: 10px;
     cursor: auto;
 }
-
+.tag{
+    color:#6E9368;
+}
 .repo-link{
     padding:3px 0px 3px 0px;
 }
