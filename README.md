@@ -21,13 +21,21 @@
  <a class="repo-link" href="https://youtu.be/VS19Yf1gT2g">🔎 메인페이지</a> <br>
  <a class="repo-link" href="https://youtu.be/PuXEqwiFsx4">🔎 상세페이지</a>
  <p class="content-tech">💻 Spring, MySQL, Javascript</p>
-
+ 
 <br>
 
+
+#### 온뮤지엄
+정부혁신해커톤 - 온라인 전시 감상 서비스<br> 웹 개발 담당 <br>
+<a class="repo-link" href="https://github.com/hanbi97/onmuseum-4th-civickhack">🔎 링크</a>
+<p class="content-tech">💻 Spring Boot, Spring Data JPA, Thymeleaf</p>
+<br>
+
+
 #### Connect Us
-한이음 ICT 멘토링 소상공인을 위한 펀딩 플랫폼<br> 로그인, 회원관리 담당 <br>
+한이음 ICT 멘토링 - 소상공인을 위한 펀딩 플랫폼<br> 로그인, 회원관리 담당 <br>
 <a class="repo-link" href="https://github.com/hanbi97/connect-us">🔎 링크</a>
- <p class="content-tech">💻 Spring Boot, RDB, Spring JPA, Spring Security, JWT, AWS</p>
+<p class="content-tech">💻 Spring Boot, RDB, Spring JPA, Spring Security, JWT, AWS</p>
  
  
 <br>
