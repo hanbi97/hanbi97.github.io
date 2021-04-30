@@ -17,7 +17,7 @@
 <br>
 
 #### 부스트코스 풀스택 과제
- 결과물 유튜브 링크 <br>
+ 개인 프로젝트 <br> 결과물 유튜브 링크 <br>
  <a class="repo-link" href="https://youtu.be/VS19Yf1gT2g">🔎 메인페이지</a> <br>
  <a class="repo-link" href="https://youtu.be/PuXEqwiFsx4">🔎 상세페이지</a>
  <p class="content-tech">💻 Spring, MySQL, Javascript</p>
