@@ -1,5 +1,6 @@
 ## 소개
-<img src="https://user-images.githubusercontent.com/36736904/116638309-072ab400-a9a1-11eb-9444-7cbd0c121b26.jpg" width="60" height="60">
+<img src="https://user-images.githubusercontent.com/36736904/116638309-072ab400-a9a1-11eb-9444-7cbd0c121b26.jpg" width="120" height="120">
+
 #### 김한비
 + 방산고등학교 졸업
 + 인하대학교 컴퓨터공학과 재학(4.08/4.5)
