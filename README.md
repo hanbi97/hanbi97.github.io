@@ -5,6 +5,8 @@
 + 방산고등학교 졸업
 + 인하대학교 컴퓨터공학과 재학(4.08/4.5)
 
+#### 공부한거 다 적는 블로그
+ <a class="repo-link" href="https://hanbi97.tistory.com/">비스토리</a>
 <br>
 
 ## 활동
