@@ -10,10 +10,17 @@
 + <a class="repo-link" href="https://hanbi97.tistory.com/">비스토리</a>
 <br>
 
+#### BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rain7i)](https://solved.ac/profile/rain7i)
+
+<br>
+
 #### 취미
 + @benny__kk 뜨개질 합니다 구경오세요~ 
 <br>
 <br>
+
 
 ## 활동
 #### 부동산 매물관리 서비스(2021)
